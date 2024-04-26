@@ -1,8 +1,8 @@
-# Les Cool Athletes Website Design Analysis and Strategy
+# Athletes Website Design Analysis and Strategy
 
 ## Overview
 
-This document provides an in-depth analysis and design strategy for the Les Cool Athletes website, focusing on creating a seamless and enjoyable online shopping experience tailored to the needs and preferences of users like Claire. The analysis includes insights from Claire's persona, empathy map, scenario map, main page sketch, high fidelity wireframe, and a comparison with other athletic apparel websites.
+This document provides an in-depth analysis and design strategy for the Les Cool Athletes website, focusing on creating a seamless and enjoyable online shopping experience tailored to the needs and preferences of users like Claire. The analysis includes insights from Claire's persona, empathy map, scenario map, main page sketch, high fidelity wireframe, and a comparison with other athletic apparel websites. The project name itself embodies the principles of Human-Computer Interaction (HCI), reflecting the focus on user-centric design and usability.
 
 ## Claire's Persona Insights
 
